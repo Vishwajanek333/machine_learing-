@@ -43,8 +43,60 @@ that problem, use an algorithm to then model that problem, and generate output.
 6.How does machine learning work?
 There are three major categories of machine learning, depending on the specific use case.
 
+###1.Supervised learning is a method where a model learns from a data set containing input
+values and paired output values that you would like to predict.
+
+Examples:
+Classification - Classifying documents          Regression - Forecasting demand for a product
+
+###2.Unsupervised learning is a method in which the training model learns from data without 
+any guidance. The objective is pattern and structure recognition.
+
+Examples:
+Clustering - Customer segmentation            Association - Discovering regularities among products
+
+Reinforcement learning is a method in which the training model learns from its
+environment by being rewarded for correct moves and punished for incorrect moves.
+
+Example:
+Autonomous driving
 
 
+What kind of solutions can ML provide?
+ML can provide predictive solutions (regression and classification), 
+prioritization (rankings and scores), and behavior patterns (recommendations and clustering).
+
+common uses for ML models:
+1.Regression
+
+Example - Predicting a numerical value
+Predicting a housing sale price
+Case study
+
+2.Classification
+
+Example - Predicting a label
+Duolingo: Classifying if a learner will get a word right
+
+3.Ranking
+
+Example - Ordering items to find the most relevant
+Domino’s Pizza: Ranking most likely next pizza order
+
+4.Recommendation
+
+Example - Finding relevant items based on past behavior
+Hyatt: Recommending hotels for large events
+
+5.Clustering
+
+Example - Finding patterns in examples
+NASA: Detecting anomalies in sensor data collection, such as super storm forecasting
+
+6.Anomaly detection
+
+Example - Finding outliers from examples
+Fraud.net: Identifying novel fraudulent behavior
 
 
 
