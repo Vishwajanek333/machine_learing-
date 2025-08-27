@@ -1,0 +1,69 @@
+How does machine learning work?
+
+AGENDA:
+Describe artificial intelligence.
+Describe the difference between artificial intelligence and machine learning.
+
+1)What is artificial intelligence?
+ans)Artificial intelligence (AI) is any system 
+that is able to ingest human-level knowledge to automate and accelerate tasks 
+performable by humans through natural intelligence. 
+AI has two categories: narrow, where an AI imitates human 
+intelligence in a single context, and general, where an AI learns and behaves with
+intelligence across multiple contexts.
+
+2)Examples of AI include:
+Intelligent search in Amazon Kendra
+Document analysis in Amazon Comprehend
+Data and text extraction in Amazon Textract
+Business metrics analysis in Amazon Lookout for Metrics and Amazon Forecast
+
+
+3)What is the difference between ML and AI?
+Artificial intelligence ingests data, such as human-level knowledge, and 
+imitates natural intelligence.
+
+Machine learning is a subset of AI, where data and algorithms continuously improve the training model to
+help achieve higher-quality output predictions. 
+
+Deep learning is a subset of machine learning. It is an approach to realizing ML that relies on a
+layered architecture, mimicking the human brain to identify data patterns and train the model.
+
+4.What are the requirements to implement AI?
+The core components of AI are domain knowledge to structure and frame the problem correctly,
+high-quality input data to train the model, and methods to detect patterns and make predictions.
+
+5.What is the difference between machine learning and classical programming?
+Machine learning involves teaching a computer to recognize patterns by example, 
+rather than programming it with specific rules. These patterns can be found in the data.
+and Put another way, with ML, you start with a problem, identify data associated with
+that problem, use an algorithm to then model that problem, and generate output.
+
+
+6.How does machine learning work?
+There are three major categories of machine learning, depending on the specific use case.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
