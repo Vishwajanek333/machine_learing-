@@ -14,3 +14,54 @@ Sequence of steps  to build for ml application
 3)train the model:model train the data which have valid inputs to get most accurate answer.
 4)test the model : evaluate the quality of models o data that was held out from  model building.
 5)deploy your model:use the model to generate predictions of target answer for new data instances.
+
+
+key terms in ml
+model: output of ml alogrithm trainded on a data set  ,used for data prediction .
+training :the act of creating a model from past data
+testing:measuring the perfomance of model on test data.
+Deployment:Integrating model into a production pipeline.
+
+
+How is Amazon using machine learning in products?
+
+1.amazon app: Amazon uses browsing and purchasing data to provide tailored product 
+recommendations and promotions.
+2.Alexa:Amazon uses ML to facilitate billions of voice interactions per week with 
+Alexa devices using natural language processing (NLP)
+3.delivery:Amazon uses ML to ship 1.6M packages per day
+
+
+Forty-eight percent of executives at US companies surveyed report they
+see AI as a path to growing revenue and said profits
+
+USE of ml in AWS:ai ml service
+1.Amazon Forecast: is a fully managed service that uses machine learning to deliver highly
+accurate forecasts.
+
+2.Amazon Fraud Detector :is a fully managed service that makes it easy to identify potentially
+fraudulent online activities, such as online payment fraud and the creation of fake.
+
+3.Amazon Personalize: makes it easy for developers to build, train, and deploy 
+recommendation models capable of delivering many personalization experiences
+
+4.Amazon Polly  text-to-speech (TTS): is a service that turns text into lifelike speech to 
+create applications that talk and build entirely new categories of speech-enabled products
+
+5.Amazon Transcribe: is an AWS service that helps customers convert speech to text. 
+
+6.Amazon SageMaker is a fully managed service that provides every developer
+and data scientist with the ability to build, train, and deploy models quickly.
+
+
+
+
+
+
+
+
+
+
+
+
+
