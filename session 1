@@ -6,3 +6,11 @@ patterns are found, ML generates and updates training models to make increasingl
 accurate predictions and inferences about future outcomes based on historical and
 new data. For example, ML could help determine the likelihood of a customer purchasing 
 a particular product based on previous purchases by the user or the product's past sales history.
+
+
+Sequence of steps  to build for ml application 
+1) formaulate a problem:ITs like what is observed and what should be answered.
+2)preapare data: collect, clean, and prepare data to make  ita consumption by ml model training ai alogrithm.
+3)train the model:model train the data which have valid inputs to get most accurate answer.
+4)test the model : evaluate the quality of models o data that was held out from  model building.
+5)deploy your model:use the model to generate predictions of target answer for new data instances.
