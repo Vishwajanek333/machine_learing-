@@ -1,0 +1,41 @@
+Is a machine learning solution appropriate for my problem?
+
+What are the reasons to use machine learning?
+An example of a business problem where the use of ML would be appropriate is
+generating personalized recommendations. In this case, the solution to the problem requires complex 
+logic, and we would want to provide personalized recommendations at scale with quick turnaround times.
+
+reasons are:
+1.Requires complex logic
+Since developing personalized recommendations
+requires complex logic, ML is an appropriate tool to consider.
+
+2.Requires scalability
+Serving millions of requests for personalized recommendations every second is a challenge.
+
+3.Requires personalization
+Delivering personalized recommendations at scale and being responsive at the same
+time is difficult to achieve with classical programming techniques.
+
+4.Requires responsiveness
+The ability to deliver personalized recommendations within a few seconds even 
+while handling millions of requests per second is expected. 
+
+What is an example business case for machine learning?
+Consider a financial institution that needs to determine which
+category of products and offerings is most interesting to a customer.
+to identify a good problem to solve using ML, identify your business outcome or goal,
+and ask these questions:
+
+
+i.What is the strategy to achieve this goal?
+
+ii.How could you use machine learning to achieve this goal?
+
+iiiWhat aspects of the problem make it a good fit to apply ML?
+
+
+
+
+
+
