@@ -1,0 +1,73 @@
+How can I prepare my organization for using ML?
+Lesson 1 of 5
+In this lesson, you will explore the following questions:
+
+How can I prepare my organization for using ML?
+How can AWS help me?
+What other strategies can I adopt to ensure organizational success?
+Which cultural shift-approach works for my organization?
+
+How do I move my organization into machine learning?
+
+An organization can progress from having few or no ML projects to advanced production ML
+expertise after completing multiple research projects and deployments.
+1. robust ml strategy ML,2.Data strategy 3.A culture of learning and collaboration
+
+
+What other strategies can I adopt to ensure organizational success?
+
+Organizations can begin creating a robust ML strategy through several methods:
+
+1.Find the right problem:Organizations can begin creating a robust strategy with 
+executive buy-in and by choosing the right problems to solve using ML. 
+i.Problems that get early executive buy-in
+ii.Problems that are data rich
+iii.Problems that can't be solved by traditional means
+iv.Problems that involve large amounts of labor
+
+note:
+The best way to gain momentum is to get early executive
+buy-in and to find problems that can yield early wins.
+
+2.Fail forward
+: try--> fail-->success
+    |--- ---|----|
+
+note:Machine learning is an iterative process. Learn from
+    failed iterations to become fault-tolerant.
+3.scaled beyond proofs of concepts
+
+
+Which cultural shift approach works for my organization?
+Shifting an organization from a centralized hub of data scientists and 
+IT specialists to a decentralized structure where data science expertise
+is distributed across business units requires several ideological shifts,
+ ML requires changes in decision-making, performance management, and organizational systems
+to facilitate ongoing data science collaboration with business units.
+
+
+
+lessson 2
+How do I evaluate my data strategy?
+An effective data strategy begins with evaluating the organization's 
+current data and determining the types of solutions needed to improve data quality.
+
+How can I improve my data strategy?Organizations can develop strategic plans to collect and use data, 
+even at the POC stage, to successfully change industries with ML. 
+
+
+What are the benefits of moving to a data lake?
+Data lakes are an increasingly popular core component of the most efficient ML models. 
+Data lakes can capture and store transactional data, databases, clickstream, IoT and sensor
+data, logs, backups, multimedia, and social media activity in a single store. Data lakes 
+can also grow to any scale and can also democratize data access and analysis.
+
+Data lakes enable a broad set of analytic engines for analytics, real-time and
+predictive analytics, artificial intelligence (AI), and machine learning.
+
+
+lesson 3
+
+
+
+
