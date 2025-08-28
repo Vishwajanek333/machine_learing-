@@ -67,6 +67,34 @@ predictive analytics, artificial intelligence (AI), and machine learning.
 
 
 lesson 3
+How do I create a culture of learning and collaboration?
+
+How can I develop my team for ML analytics?
+ans)An ML team can grow rapidly through several developmental phases, which include 
+interdisciplinary collaboration, training, and hiring domain experts. 
+
+How else can AWS help my team get some quick wins?
+ans)Several managed services provide prebuilt ML pipelines
+that can be applied to problems in an automated way.
+
+Amazon Kendra
+Create an internal search service
+
+Amazon Comprehend
+Classify user text based on sentiment
+
+Amazon Personalize
+Create a personalization and recommendation service for customers
+
+Amazon Forecast
+Forecast business needs and outcomes
+
+Amazon Rekognition
+Generate metadata tags from images to make them searchable
+
+Amazon Fraud Detector:
+Identify potentially fraudulent online activities
+
 
 
 
