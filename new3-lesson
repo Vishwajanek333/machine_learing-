@@ -36,6 +36,81 @@ iiiWhat aspects of the problem make it a good fit to apply ML?
 
 
 
+lesson 2
+
+Is my data ready for machine learning solution?
+ans)Data readiness depends on the quality, quantity, diversity, and
+complexity of the data collected. After discovering and collecting all relevant data, 
+the data should be cleansed, validated, transformed, and stored.
+
+note:A first step is to identify a problem that is rich in data, but (one that) 
+you haven't been able to solve through traditional methods.
+
+Is my data high quality?
+Data used in an ML project should be relevant to produce valuable results.
+Data should be timely so that training data is as close to the actual data as possible.
+Data should be representative of the data across all data sources. Data selection 
+should be unbiased.
+
+To identify a good problem to solve using ML, assess your data readiness, 
+and ask these questions:
+
+$$What question should I ask about data readiness?
+Is it easily accessible?
+Does it respect privacy?
+Is it relevant?
+
+
+lesson 3:
+How will machine learning impact a project timeline?
+
+What should be my expectation in terms of time?
+
+Machine learning can take significant time from
+the start of a project through production deployment. Expectations for the
+amount of time needed to deploy production models can take weeks or even months.
+
+
+o identify a good problem to solve using ML, assess your machine learning lifecycle, and ask these questions.
+
+What question should I ask about strategy?
+Have you ever had a similar task to your proposed ML solution?
+Have you explored your data and found faults?
+Is the performance of models meeting business requirements?
+
+
+lesson 4.
+
+What early questions should I ask in deployment?
+How do I take my machine learning solution into production?
+
+While production deployment of an ML model is one of the last stages of the ML pipeline, 
+ML production code differs in many ways from research code. The purpose of research code
+is to promote exploration and validate models using iterative processes, which might lack
+formal quality, stability, or scaling requirements. However, production code must meet 
+objective and fixed requirements, facilitate collaboration through version control,
+maintain a code deployment history, and meet code reliability standards.
+
+The questions below arise frequently while talking to customers about what they would 
+ask during early production.
+What is the likely computational cost of generating predictions with your model? it  more base of
+requirements of resoureces.
+
+How quickly does your data change?
+Start thinking about how complex your data is and how often data changes. 
+Ultimately, this could lead you to constantly retrain the mode
+
+How significant are the changes needed to deploy?
+Start thinking about which changes you would like to enter into production and the frequency.
+
+Does the model’s performance meet the business need?
+Start thinking about how your business conditions will change over time. 
+Your current model might need to be adjusted as conditions change Do you have new 
+product lines launching? Are there new regulations in you business sector? 
+Are you expanding into new geographies?
+
+
+
 
 
 
